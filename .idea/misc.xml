@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="OctanePluginConnectionSettings" Url="https://almoctane-ams.saas.microfocus.com" SharedSpace="468005" WorkSpace="30004" User="david.grant2@microfocus.com" SSO="false" />
+  <component name="OctanePluginState" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" OPEN_TABS="{&quot;openDetailTabs&quot;:[{&quot;entityType&quot;:&quot;GHERKIN_TEST&quot;,&quot;entityName&quot;:&quot;AOS Login&quot;,&quot;id&quot;:76013}]}" SELECTED_TAB="{&quot;entityType&quot;:&quot;GHERKIN_TEST&quot;,&quot;entityName&quot;:&quot;AOS Login&quot;,&quot;id&quot;:76013}" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
